@@ -1,0 +1,14 @@
+* {
+  margin: 0; /*espaçamento externo do elemento*/
+  padding: 0; /*espaçamento interno do elemento*/
+  box-sizing: border-box;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit; /*herdar as cores que eu for colocar*/
+}
